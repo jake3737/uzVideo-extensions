@@ -36,22 +36,40 @@
     ],
     "live": [
         {
-            "name": "📺电视直播",
+            "name": "📺广东",
             "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt",
             "type": 10,
             "remark": "1"
         },
-        {
-            "name": "🎥网络直播",
-            "url": "http://rihou.cc:555/gggg.nzk",
+		{
+            "name": "📺A8",
+            "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp8.txt",
             "type": 10,
             "remark": "2"
         },
-        {
-            "name": "🚴‍♂️体育直播",
-            "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp8.txt",
+	    {
+            "name": "📺天天开心",
+            "url": "http://rihou.cc:555/gggg.nzk",
             "type": 10,
             "remark": "3"
+        },
+        {
+            "name": "🎥网络直播",
+            "url": "https://tv.iill.top/m3u/Live",
+            "type": 10,
+            "remark": "4"
+        },
+		{
+            "name": "📺电视直播",
+            "url": "https://tv.iill.top/m3u/Gather",
+            "type": 10,
+			"remark": "5"
+        },
+        {
+            "name": "🚴‍♂️体育直播",
+            "url": "https://tv.iill.top/m3u/Sport",
+            "type": 10,
+            "remark": "6"
         }
     ],
     "vod": [
