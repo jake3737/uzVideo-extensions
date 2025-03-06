@@ -3,7 +3,7 @@
         {
             "name": "豆瓣推荐 影视推荐",
             "codeID": "N7WRmLmOdB8FSh4M",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/douban.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/recommend/js/douban.txt",
             "version": "3",
             "type": 200
         }
@@ -11,7 +11,7 @@
     "panTools": [
         {
             "name": "UC|夸克|阿里 网盘解析工具",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/panTools/js/panTools.js",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/panTools/js/panTools.js",
             "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
             "version": 13,
             "type": 300
@@ -20,7 +20,7 @@
     "danMu": [
         {
             "name": "综合弹幕",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/danMu/js/danMu2.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/danMu/js/danMu2.txt",
             "codeID": "RkgRA9srEAgMgLcBJ78G2wlPRKTWWiwE",
             "remark": "别那么执着，搜不到就算了",
             "type": 400,
@@ -29,7 +29,7 @@
         {
             "name": "dandanPlay 弹幕",
             "remark": "数据来自 弹弹Play",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/danMu/js/danMu.js",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/danMu/js/danMu.js",
             "type": 400,
             "version": 1
         }
@@ -73,7 +73,7 @@
     "vod": [
         {
             "name": "玩偶哥哥",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/wogg.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/wogg.js",
             "webSite": "https://www.wogg.lol",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -81,7 +81,7 @@
         },
         {
             "name": "瓜子app",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js",
             "codeID": "ra5Z3wtXKshzSMK2",
             "instance": "gzapp20241001",
             "webSite": "https://api.9cec79d.com",
@@ -91,7 +91,7 @@
         },
         {
             "name": "老白聽書",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/laobai.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/laobai.js",
             "instance": "laobai20240831",
             "webSite": "https://apk-lb-json.fodexin.com",
             "remark": "",
@@ -100,7 +100,7 @@
         },
         {
             "name": "🐲欧歌资源",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ougepan.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/ougepan.js",
             "instance": "ougepan20241030",
             "webSite": "https://woog.nxog.eu.org/",
             "remark": "欧歌网盘",
@@ -109,7 +109,7 @@
         },
         {
             "name": "🥔土豆粉条",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/tudou.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/tudou.js",
             "instance": "tudou20241030",
             "webSite": "https://yunpan.yunpay.cc",
             "remark": "土豆网盘",
@@ -118,7 +118,7 @@
         },
         {
             "name": "🤠多多影音",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/duoduo.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/duoduo.js",
             "webSite": "https://tv.yydsys.top",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -126,7 +126,7 @@
         },
         {
             "name": "🐲欧歌资源",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
             "webSite": "https://woog.nxog.eu.org",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
@@ -134,7 +134,7 @@
         },
         {
             "name": "MISSAV",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/missav.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/missav.js",
             "instance": "missav20240627",
             "webSite": "https://missav.ai",
             "remark": "",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Netflav",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/netflav.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/netflav.js",
             "instance": "netflav20240905",
             "webSite": "https://www.netflav.com",
             "remark": "",
@@ -152,7 +152,7 @@
         },
         {
             "name": "91jav",
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/91jav.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jake3737/uzVideo-extensions/refs/heads/main/vod/js/91jav.js",
             "webSite": "https://041.bndmpsjx.com",
             "remark": "",
             "version": "3",
