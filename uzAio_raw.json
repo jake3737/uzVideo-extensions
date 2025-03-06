@@ -39,16 +39,19 @@
             "name": "📺电视直播",
             "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt",
             "type": 10,
+            "remark": "1"
         },
         {
             "name": "🎥网络直播",
             "url": "http://rihou.cc:555/gggg.nzk",
             "type": 10,
+            "remark": "2"
         },
         {
             "name": "🚴‍♂️体育直播",
             "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp8.txt",
             "type": 10,
+            "remark": "3"
         }
     ],
     "vod": [
