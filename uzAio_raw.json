@@ -36,8 +36,8 @@
     ],
     "live": [
         {
-            "name": "📺广东",
-            "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt",
+            "name": "📺印Smartv",
+            "url": "https://raw.githubusercontent.com/markgorrr/live/refs/heads/main/smartv.txt",
             "type": 10,
             "remark": "1"
         },
@@ -71,7 +71,6 @@
 		{
             "name": "📺电视直播",
             "url": "https://tv.iill.top/m3u/Gather",
-		    "ua": "okhttp/4.12.0"
             "type": 10,
 			"remark": "5"
         },
