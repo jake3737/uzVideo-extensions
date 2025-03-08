@@ -42,15 +42,6 @@
             "remark": "1"
         },
 		{
-            "name": "哈哈",
-	        "ua":"AptvPlayer/1.3.4",
-	        "type" : 10,
-			"remark": "1",
-            "url": "https://9554.kstore.space/a.txt",
-	        "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
-	        "logo":"https://epg.112114.xyz/logo/{name}.png"
-        }, 
-		{
             "name": "📺A8",
             "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp8.txt",
             "type": 10,
@@ -71,14 +62,24 @@
 		{
             "name": "📺电视直播",
             "url": "https://tv.iill.top/m3u/Gather",
+			"ua": "okhttp/4.12.0",
             "type": 10,
 			"remark": "5"
         },
+		{
+            "name": "哈哈",
+	        "ua":"AptvPlayer/1.3.4",
+	        "type" : 10,
+			"remark": "6",
+            "url": "https://9554.kstore.space/a.txt",
+	        "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+	        "logo":"https://epg.112114.xyz/logo/{name}.png"
+        }, 
         {
-            "name": "🚴‍♂️体育直播",
-            "url": "https://tv.iill.top/m3u/Sport",
+            "name": "📺广东",
+            "url": "https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt",
             "type": 10,
-            "remark": "6"
+            "remark": "7"
         }
     ],
     "vod": [
